@@ -1,19 +1,14 @@
-Overview
-
-This document provides an overview of the AI agent, its functionality, architecture, and usage guidelines.
-
-Features & Limitations
-Features
-
+_**Features & Limitations
+Features**
+_
 Intelligent task handling
 
 Multi-step reasoning
 
 Integration with APIs
 
-Export options (CSV: Posts & Schedule)
 
-Limitations
+_**Limitations**_
 
 Dependent on API rate limits
 
@@ -21,7 +16,7 @@ Requires stable environment variables
 
 Feature availability may differ by deployment
 
-Tech Stack & APIs Used
+**_Tech Stack & APIs Used_**
 
 Backend: Node.js / Python
 
@@ -31,7 +26,7 @@ Database: MongoDB / PostgreSQL
 
 External APIs: OpenAI API, Scheduler API, CSV export utility
 
-Setup & Run Instructions
+_**Setup & Run Instructions**_
 
 Clone the repository
 
@@ -43,7 +38,7 @@ Run development server: npm start or python app.py
 
 Access the agent via localhost URL
 
-Potential Improvements
+_**Potential Improvements**_
 
 Add analytics dashboard
 
