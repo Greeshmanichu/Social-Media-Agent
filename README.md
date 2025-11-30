@@ -9,11 +9,11 @@ _**Limitations:**_
 Requires stable environment variables, 
 Feature availability may differ by deployment
 
-**_Tech Stack & APIs Used:_**
- Backend: Node.js / Python, 
-Frontend: React (if UI used), 
-Database: MongoDB / PostgreSQL, 
-External APIs: OpenAI API, Scheduler API, CSV export utility
+_**Tech Stack & APIs Used:**_
+ Backend: Python (Streamlit-based execution layer), 
+Frontend: Streamlit UI,  
+External APIs: Google Gemini API (via google-generativeai), 
+Utilities: pandas, python-dotenv (environment management)
 
 _**Setup & Run Instructions:**_
  Clone the repository, 
