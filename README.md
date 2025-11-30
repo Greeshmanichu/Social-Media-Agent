@@ -1,3 +1,8 @@
+_**Overview of the Agent**_
+
+The AI Social Media Agent is a Streamlit-based application that generates platform-ready social media content using the Google Gemini API. Users provide brand details, audience information, tone, and desired number of posts, and the agent produces structured flashcards containing titles, captions, and image suggestions. All processing—UI, logic, and API interaction—is handled within a single Python application, making the tool simple to run and deploy.
+
+
 _**Features & Limitations
 Features:**_
  Intelligent task handling, 
